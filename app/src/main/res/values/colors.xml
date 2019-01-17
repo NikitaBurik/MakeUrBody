@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="cubcolor">#e1ff00</color>
+    <color name="borderColor">#cc000a</color>
+    <color name="hoverColor">#b64f00</color>
+    <color name="cubcolorstep">#0011ff</color>
+    <color name="cubcolorhow">#dc4600</color>
+    <color name="backresult">#00ff6a</color>
+    <color name="howcolor">#261f84</color>
+
+
+</resources>

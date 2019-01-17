@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MakeUrBody</string>
+    <string name="put_smartphon">1. Put smartphone under your chest as on picture above and start doing pull up.\n
+        2. After the exercise or if You feeling enough - press Finish.
+                                    </string>
+    <string name="save_result">Save result</string>
+    <string name="show_results">Show previous results</string>
+    <string name="descr_pushups">Put the phone under yourself so that when you push up you barely touch the phone - in this way the number of push-ups will be count</string>
+    <string name="chooseur">Choose your goal in kcalories</string>
+    <string name="see_result">Previous results: to see results press show</string>
+</resources>
