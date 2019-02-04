@@ -4,11 +4,11 @@ Application created for people who want to play sports and know the number of bu
 General menu.  
 ![alt text](https://pp.userapi.com/c852028/v852028680/ac675/v-vE-J84TE4.jpg)
 Push up counter.
-![alt text](https://pp.userapi.com/c852028/v852028680/ac660/sbzdfUjeOXo.jpg) <br/>
+![alt text](https://pp.userapi.com/c852028/v852028680/ac660/sbzdfUjeOXo.jpg)
 Step counter.
-![alt text](https://pp.userapi.com/c852028/v852028680/ac659/AwnssQsOVUE.jpg) <br/>
+![alt text](https://pp.userapi.com/c852028/v852028680/ac659/AwnssQsOVUE.jpg)
 Results.
-![alt text](https://pp.userapi.com/c852028/v852028680/ac667/ySLg_ZEm0Z0.jpg) <br/>
+![alt text](https://pp.userapi.com/c852028/v852028680/ac667/ySLg_ZEm0Z0.jpg)
 If user doesn't what to do - he always can look at tutorial.
 
 
