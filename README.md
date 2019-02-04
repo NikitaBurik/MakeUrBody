@@ -1,6 +1,5 @@
 # MakeUrBody
-Application created for people who want to play sports and know the number of burned calories. The application has two modes: push-ups from the floor, where the user should put the phone under himself for counting their calories, and the second mode will count the steps. Also, the user can save their results.
-
+Application created for people who want to play sports and know the number of burned calories. The application has two modes: push-ups from the floor, where the user should put the phone under himself for counting their calories, and the second mode will count the steps. Also, the user can save their results. <br/>
 ![alt text](https://pp.userapi.com/c852028/v852028680/ac66e/TgkA8Le0P_A.jpg) <br/>
 General menu.
 ![alt text](https://pp.userapi.com/c852028/v852028680/ac675/v-vE-J84TE4.jpg) <br/>
